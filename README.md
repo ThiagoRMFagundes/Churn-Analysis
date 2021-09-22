@@ -4,8 +4,8 @@ Os dados são dos cliente de um banco europeu, e o intuito do projeto é prever 
 
 Breve explicação dos dados:
 
-RowNumber -> Número da linha na tabela de dados
-CustomerId -> Identificador único do cliente
+- RowNumber -> Número da linha na tabela de dados
+- CustomerId -> Identificador único do cliente
 Surname -> Sobrenome do cliente
 CreditScore -> Pontos de crédito do cliente com o banco
 Geography -> País em que o cliente vive
